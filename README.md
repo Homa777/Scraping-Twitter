@@ -16,4 +16,4 @@ You can scrape twitter based on your requirements for example, you can define a 
 #Retweet 
 #Replies 
 
- 
+ I used development version of Snscrape using following github repository. You need to install this through git. Please make sure you have installed git in your system.
