@@ -1,6 +1,7 @@
 # Scraping-Twitter
 Scraping Twitter without twitter API
 
+Twitter has introduced changes to their API that have rendered various tweet-scraping libraries obsolete. Luckily snscrape, as a library that allowed me to scrape tweets without the restrictions of Tweepy (Twitter API).
 
 Recently, I had to scrape twitter website to make a dataset using comments of users in twitter. Unfortunately, I could not access to key token and password by twitter API. I did not have enough time to wait to get those mentioned credentials by twitter API. I applied for twitter as develpoer to get key token, but it took a lot time to get back to me. Therefore I use twint library which end up with no plausible results. It seems twitter no longer let users to use Twint library to scrape it. 
 
