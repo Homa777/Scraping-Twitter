@@ -17,3 +17,9 @@ You can scrape twitter based on your requirements for example, you can define a 
 #Replies 
 
  I used development version of Snscrape using following github repository. You need to install this through git. Please make sure you have installed git in your system.
+
+The Python package dependencies are installed automatically when you install Snscrape. You can install using the following commands.
+
+I used development version of Snscrape using following github repository. You need to install this through git.
+
+pip3 install git+https://github.com/JustAnotherArchivist/snscrape.git
