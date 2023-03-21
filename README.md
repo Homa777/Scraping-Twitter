@@ -8,11 +8,11 @@ Therefore, I searched and found SNScrape (A scraper for social networking platfo
 
 You can scrape twitter based on your requirements for example, you can define a search function which takes the inputs as arguments and creates a query string to be passed inside SNS twitter search scraper function. These inputs can include:
 
-Text 
-Username 
-Since 
-Until 
-Retweet 
-Replies 
+#Text 
+#Username 
+#Since 
+#Until 
+#Retweet 
+#Replies 
 
  
